@@ -15,34 +15,34 @@
 - 1番線(渋谷方面)ホーム着の場合は、そのままでよい。
 
 ### 1. 西新橋方面改札(1番線)を出て左に進みます
-![image](images/nishi_shibashi_deguchi.JPG)
+![image](images/nishi_shibashi_deguchi.jpg)
 
 ### 2. 「H06 虎ノ門ヒルズ駅」を目指して右に進みます
-![image](images/2_migi.JPG)
+![image](images/2_migi.jpg)
 
 ### 3. 「H06 虎ノ門ヒルズ駅」を目指し真っ直ぐ進みます
-![image](images/3_toranomon_st.JPG)
+![image](images/3_toranomon_st.jpg)
 
 ### 4. 突き当たり右に進みます
-![image](images/4_toranomon_st.JPG)
+![image](images/4_toranomon_st.jpg)
 
 ### 5. 「日比谷線 虎ノ門ヒルズ駅」の看板を左に進みます
-![image](images/5_toranomon_st.JPG)
+![image](images/5_toranomon_st.jpg)
 
 ### 6. エスカレーターが見えたら右側の下りのエスカレーターに乗りB2に行きます
-![image](images/6_toranomon_st.JPG)
+![image](images/6_toranomon_st.jpg)
 
 ### 7. エスカレーター降りたら右に行きます。「日比谷線 虎ノ門ヒルズ駅」の改札前に出ます
-![image](images/7_toranomon_st.JPG)
+![image](images/7_toranomon_st.jpg)
 
 ### 8. オフィス、東京ノード方面に右に行きます
-![image](images/8_toranomon_st.JPG)
+![image](images/8_toranomon_st.jpg)
 
-![image](images/8_toranomon_st2.JPG)
+![image](images/8_toranomon_st2.jpg)
 
 
 ### 9. 左に曲がってエレベーターホールに入り、7Fまで上がってください
-![image](images/9_toranomon_st.JPG)
-![image](images/9_toranomon_st2.JPG)
+![image](images/9_toranomon_st.jpg)
+![image](images/9_toranomon_st2.jpg)
 
 ### その後は [虎ノ門ステーションタワー7Fオフィスエントランスから31F IBM Inovation Studio受付](7F_to_31F.md)　を参照ください
